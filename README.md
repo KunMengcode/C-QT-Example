@@ -1,1 +1,1 @@
-# C-QT-Example
+# C++ QT Example(案例)
